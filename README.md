@@ -8,18 +8,14 @@ My blog site is [绯境之外](http://blog.scarletborders.top/), where I occasio
 
 #### Skills
 The advanced languages I currently use most are Python and Golang, while I also know C++ and Javascript but don't use them as frequently. 
-Details of other technologies I'm familiar with are listed in the table below. Additionally, I am well-versed in mainstream programming architectures.
+Details of other technologies I'm familiar with are listed in the table below. Additionally, I am well-versed in mainstream programming architectures.  
 ![Skill Icons](https://skillicons.dev/icons?i=aws,c,cloudflare,cmake,cpp,css,debian,docker,fastapi,git,github,githubactions,gmail,golang,html,ipfs,javascript,latex,linux,markdown,mysql,nginx,nodejs,postman,powershell,python,pytorch,qt,redis,regex,rust,sqlite,ubuntu,v,vim,visualstudio,vscode,windows&theme=dark&perline=10)
 
 #### Status
 [![wakatime](https://wakatime.com/badge/user/306f2016-648f-4ed3-822c-e9d658a056c8.svg)](https://wakatime.com/@306f2016-648f-4ed3-822c-e9d658a056c8)
-<br>
 
-<table><tr>
-<td colspan=2>
-      <img alt="My WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=scarletborder&hide_border=true&layout=compact&theme=transparent&custom_title=Time for Last 7 Days" align="center"/>
-    </td>
-</tr></table>
+![Wakatime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=scarletborder&hide_border=true&layout=compact&theme=transparent&custom_title=TimeForLastSevenDays)
+
 
 
 <!--
