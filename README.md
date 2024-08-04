@@ -7,7 +7,10 @@ I am dedicated to contributing valuable code to the community. Currently, I spec
 My blog site is [绯境之外](http://blog.scarletborders.top/), where I occasionally update my personal status, primarily in Chinese, apologies for that.   
 
 #### Skills
-The advanced languages I currently use most are Python and Golang, while I also know C++ and Javascript but don't use them as frequently.   
+The advanced languages I used most currently are Python, C# and Golang.
+
+I'm currently exploring indie game developing ways.
+
 Details of other technologies I'm familiar with are listed in the table below. Additionally, I am well-versed in mainstream programming architectures.   
 
 ![Skill Icons](https://skillicons.dev/icons?i=aws,c,cloudflare,cmake,cpp,css,debian,docker,fastapi,git,github,githubactions,gmail,golang,html,ipfs,javascript,latex,linux,markdown,mysql,nginx,nodejs,postman,powershell,python,pytorch,qt,redis,regex,rust,sqlite,ubuntu,v,vim,visualstudio,vscode,windows&theme=dark&perline=10)
