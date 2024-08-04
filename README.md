@@ -13,7 +13,7 @@ I'm currently exploring indie game developing ways.
 
 Details of other technologies I'm familiar with are listed in the table below. Additionally, I am well-versed in mainstream programming architectures.   
 
-![Skill Icons](https://skillicons.dev/icons?i=aws,c,cloudflare,cmake,cpp,css,debian,docker,fastapi,git,github,githubactions,gmail,golang,html,ipfs,javascript,latex,linux,markdown,mysql,nginx,nodejs,postman,powershell,python,pytorch,qt,redis,regex,rust,sqlite,ubuntu,v,vim,visualstudio,vscode,windows&theme=dark&perline=10)
+![Skill Icons](https://skillicons.dev/icons?i=aws,c,cloudflare,cmake,cpp,cs,css,debian,docker,fastapi,git,github,githubactions,gmail,golang,html,ipfs,javascript,latex,linux,markdown,mysql,nginx,nodejs,postman,powershell,python,pytorch,qt,redis,regex,rust,sqlite,ubuntu,v,vim,visualstudio,vscode,windows&theme=dark&perline=10)
 
 #### Status
 [![wakatime](https://wakatime.com/badge/user/306f2016-648f-4ed3-822c-e9d658a056c8.svg)](https://wakatime.com/@306f2016-648f-4ed3-822c-e9d658a056c8)  
