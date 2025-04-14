@@ -4,10 +4,10 @@ This is a self-introduction page for a sophomore student from China.
 
 #### About ME
 I am dedicated to contributing valuable code to the community. Currently, I specialize in backend development.     
-My blog site are [绯境之外](https://www.scarletborder.cn) and [blogspot](https://scarletborder.blogspot.com), where I sometimes update my personal status, primarily in Chinese, apologies for that.   
+My blog site are [绯境之外](https://blog.scarletborder.cn) (deployed by [blogspot](https://scarletborder.blogspot.com) ), where I sometimes update my personal status, primarily in Chinese, apologies for that.   
 
 #### Skills
-The advanced languages I used most currently are Python, C# and Golang.
+The advanced languages I used most currently are Python, Typescript and Golang.
 
 I'm currently exploring indie game developing ways.
 
