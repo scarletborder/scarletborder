@@ -1,19 +1,17 @@
 ### Hi there 👋
-This is a self-introduction page for a sophomore student from China.  
+I'm a sophomore student from China.
 
+ #### About Me
+ I'm passionate about building valuable applications with code and am currently focusing on my journey in backend development. I hope to make my own small contributions to the open-source community.
 
-#### About ME
-I am dedicated to contributing valuable code to the community. Currently, I specialize in backend development.     
-My blog site are [绯境之外](https://blog.scarletborder.cn) (deployed by [blogspot](https://scarletborder.blogspot.com) ), where I sometimes update my personal status, primarily in Chinese, apologies for that.   
+ I occasionally share my learning notes and personal thoughts on my blog, **[绯境之外](https.blog.scarletborder.cn)** (mostly in Chinese).
 
-#### Skills
-The advanced languages I used most currently are Python, Typescript and Golang.
+ #### Interests & Exploration
+ The languages I'm currently working with most are Golang, TypeScript and Python.
 
-I'm currently exploring indie game developing ways.
+ In my spare time, I'm also exploring the world of indie game development, hoping to create interesting worlds in a different field.
 
-Details of other technologies I'm familiar with are listed in the table below. Additionally, I am well-versed in mainstream programming architectures.   
-
-![Skill Icons](https://skillicons.dev/icons?i=aws,c,cloudflare,cmake,cpp,cs,css,debian,docker,fastapi,git,github,githubactions,gmail,godot,golang,html,ipfs,javascript,latex,linux,markdown,mysql,mongo,nginx,nodejs,postman,powershell,python,pytorch,qt,redis,react,regex,rust,sqlite,ubuntu,v,vim,visualstudio,vscode,windows&theme=dark&perline=10)
+![Skill Icons](https://skillicons.dev/icons?i=c,cloudflare,cpp,cs,css,debian,docker,fastapi,git,githubactions,godot,golang,html,javascript,latex,markdown,mysql,mongo,nginx,nodejs,python,qt,redis,react,regex,sqlite,ubuntu,vim,vscode,windows&theme=dark&perline=10)
 
 #### Status
 [![wakatime](https://wakatime.com/badge/user/306f2016-648f-4ed3-822c-e9d658a056c8.svg)](https://wakatime.com/@306f2016-648f-4ed3-822c-e9d658a056c8)  
