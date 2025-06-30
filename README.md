@@ -4,7 +4,7 @@ I'm a sophomore student from China.
  #### About Me
  I'm passionate about building valuable applications with code and am currently focusing on my journey in backend development. I hope to make my own small contributions to the open-source community.
 
- I occasionally share my learning notes and personal thoughts on my blog, **[绯境之外](https.blog.scarletborder.cn)** (mostly in Chinese).
+ I occasionally share my learning notes and personal thoughts on my blog, **[绯境之外](https://blog.scarletborder.cn)** (mostly in Chinese).
 
  #### Interests & Exploration
  The languages I'm currently working with most are Golang, TypeScript and Python.
